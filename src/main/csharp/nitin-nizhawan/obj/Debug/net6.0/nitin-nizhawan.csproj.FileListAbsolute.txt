@@ -1,0 +1,15 @@
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/bin/Debug/net6.0/nitin-nizhawan
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/bin/Debug/net6.0/nitin-nizhawan.deps.json
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/bin/Debug/net6.0/nitin-nizhawan.runtimeconfig.json
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/bin/Debug/net6.0/nitin-nizhawan.dll
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/bin/Debug/net6.0/nitin-nizhawan.pdb
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/obj/Debug/net6.0/nitin-nizhawan.csproj.AssemblyReference.cache
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/obj/Debug/net6.0/nitin-nizhawan.GeneratedMSBuildEditorConfig.editorconfig
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/obj/Debug/net6.0/nitin-nizhawan.AssemblyInfoInputs.cache
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/obj/Debug/net6.0/nitin-nizhawan.AssemblyInfo.cs
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/obj/Debug/net6.0/nitin-nizhawan.csproj.CoreCompileInputs.cache
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/obj/Debug/net6.0/nitin-nizhawan.dll
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/obj/Debug/net6.0/refint/nitin-nizhawan.dll
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/obj/Debug/net6.0/nitin-nizhawan.pdb
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/obj/Debug/net6.0/nitin-nizhawan.genruntimeconfig.cache
+/home/nnizhawan/gitw/src/github.com/nitin-nizhawan/1brc/src/main/csharp/nitin-nizhawan/obj/Debug/net6.0/ref/nitin-nizhawan.dll
